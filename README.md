@@ -7,4 +7,6 @@
 - \ saab ainult rootsi klaviatuuriga
 - $num = array(1, 2, 3, 4);
 $num = [1, 2, 3, 4]; (Need on samad)
+
 - std on standard
+- sõne on string
