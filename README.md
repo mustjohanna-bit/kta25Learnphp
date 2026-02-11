@@ -14,3 +14,4 @@ $num = [1, 2, 3, 4]; (Need on samad)
 - üks = on assignment e väärtuse sättimine ja kaks == on võrdus e võrdleme kahte väärtust
 - kolmekordset === kasutatakse kui tahan et kontriollitakse ja tüüpe, strict ...; kasuta nii palju kui vähegi võimalik 
 - ! range
+- php lubab kirjutada elseif ja else if 
